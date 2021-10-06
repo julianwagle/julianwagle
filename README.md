@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Julian. Founder of [Botnie](https://botnie.com) and [Premium Puts](https://premiumputs.com). I love working on startups and on open source projects. I'm really familiar with [Django](https://www.djangoproject.com/) dev and recently I've been transitioning my main stack to [NodeJS](https://nodejs.org/en/) and [React Native](https://reactnative.dev/). You can find my personal site and learn more [here](https://julianwagle.com).
+
 
 - 🔭 I’m currently working on ...
 
