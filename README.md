@@ -14,4 +14,4 @@ julian.wagle@gmail.com
 
 What do you call two monkeys that share an Amazon account?
 
-... Prime-mates
+... Prime-mates 🐒🐒
